@@ -1,0 +1,5 @@
+colorama
+setuptools
+zipfile
+os
+time
